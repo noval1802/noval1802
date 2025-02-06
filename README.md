@@ -1,87 +1,45 @@
-# 👋 Hello, I'm [Your Name] - Ethical Hacker & Pentester
+<h1 align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> 
+  0xMass Vaal
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50">
+</h1>
 
-![GitHub Banner](https://github.com/[YourUsername]/[YourUsername]/blob/main/assets/banner.gif) <!-- Ganti dengan link banner animasi kamu -->
-
----
-
-### 🛠️ Tools & Technologies
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=𝙀𝙏𝙃𝙄𝘾𝘼𝙇+𝙃𝘼𝘾𝙆𝙀𝙍;𝙋𝙀𝙉𝙏𝙀𝙎𝙏𝙀𝙍;𝘽𝙐𝙂+𝙃𝙐𝙉𝙏𝙀𝙍;𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔+𝘼𝙍𝘾𝙃𝙄𝙏𝙀𝘾𝙏" alt="Typing Animation">
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=true)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
 
----
+###
 
-### 🎯 My Expertise
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Penetration Testing**
-- **Vulnerability Assessment**
-- **Network Security**
-- **Web Application Security**
-- **Social Engineering**
-- **Digital Forensics**
+###
 
----
+<img align="right" height="185" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47t7i07y0kjhew1jt6cddrozmzz28uwjykdtqegndl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-### 📝 Latest Blog Posts
+###
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Perform a Basic Network Penetration Test](https://yourblog.com/network-pentest)
-- [Top 5 Tools for Ethical Hacking in 2023](https://yourblog.com/top-5-tools)
-- [Understanding SQL Injection Attacks](https://yourblog.com/sql-injection)
-<!-- BLOG-POST-LIST:END -->
+<img src="https://raw.githubusercontent.com/noval1802/noval1802/.github/workflowssnake.svg" alt="Snake animation" />
 
----
-
-### 🔗 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YourTwitter])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YourLinkedIn])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[YourInstagram])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YourEmail])
-
----
-
-### 💻 My Setup
-
-![OS](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-GNOME_Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
-
----
-
-### 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to Use Nmap for Network Scanning](https://youtube.com/watch?v=example1)
-- [Setting Up a Home Lab for Penetration Testing](https://youtube.com/watch?v=example2)
-- [Top 5 Cybersecurity Tools for Beginners](https://youtube.com/watch?v=example3)
-<!-- YOUTUBE:END -->
-
----
-
-### 📌 Pinned Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo1]&theme=dark)](https://github.com/[YourUsername]/[Repo1])
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo2]&theme=dark)](https://github.com/[YourUsername]/[Repo2])
-
----
-
-### 🎨 Fun Fact
-
-I once hacked my own coffee machine to brew coffee at 3 AM. ☕
-
----
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=[YourUsername].[YourUsername])
+###
