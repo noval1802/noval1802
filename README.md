@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50">
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=𝙀𝙏𝙃𝙄𝘾𝘼𝙇+𝙃𝘼𝘾𝙆𝙀𝙍;𝙋𝙀𝙉𝙏𝙀𝙎𝙏𝙀𝙍;𝘽𝙐𝙂+𝙃𝙐𝙉𝙏𝙀𝙍;𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔+𝘼𝙍𝘾𝙃𝙄𝙏𝙀𝘾𝙏" alt="Typing Animation">
-</div>
+</div> -->
 
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
 <ul>
@@ -63,10 +63,10 @@
 </p><div align="center">
   Thanks for watching my profile! Have a nice day! <br>
   © 2025 Mas Vaal
-</div>
+<!-- </div>
 <hr>
 <p>Credits: <a href="https://github.com/noval1802">Mass Vaal</a></p>
 <p>Last Edited on: 06/02/2025</p>
-
+ -->
 
 
