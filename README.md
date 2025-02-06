@@ -50,7 +50,7 @@
 <br>
 <h2 id="-for-more-information-please-check-out-or-connect-me-via"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via</h2>
 <p align="center">
-  <a href="abdulazizkon@gmail.com">
+  <a href="mailto:abdulazizkon@gmail.com">
     <img align="middle" alt="Mas Vaal | Gmail" width="26px" src="https://raw.githubusercontent.com/noval1802/noval1802/427389e8ff662e00f8deeafe8eb5b9adc9652597/Assets/Gmail.svg">
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/azizval/" target="_blank">
