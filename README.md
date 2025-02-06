@@ -23,20 +23,20 @@
 <br>
 <h2 id="-for-more-information-please-check-out-or-connect-me-via"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via</h2>
 <p align="center">
-  <a href="sshourya17@gmail.com">
+  <a href="abdulazizkon@gmail.com">
     <img align="middle" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/azizval/" target="_blank">
     <img align="middle" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
   </a> &nbsp;&nbsp;
   <a href="https://profile-summary-for-github.herokuapp.com/user/Shourya742" target="_blank">
-    <img align="middle" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
+    <img align="middle" alt="Shourya74 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
   </a> &nbsp;&nbsp;
 </p><p>
 </p><div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br>
-  © 2023 Shourya Sharma
+  Thanks for watching my profile! Have a nice day! <br>
+  © 2025 Shourya Sharma
 </div>
 <hr>
-<p>Credits: <a href="https://github.com/Shourya742">Shourya Sharma</a></p>
-<p>Last Edited on: 22/01/2023</p> 
+<p>Credits: <a href="https://github.com/noval1802">Mass Vaal</a></p>
+<p>Last Edited on: 06/02/2025</p> 
