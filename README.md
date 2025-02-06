@@ -10,15 +10,15 @@
 
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
 <ul>
-<li>:credit_card: My full name is <strong>Mass Vaal</strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"></li>
-<li>:school: I’m currently the Final year student at <strong>IIT Kharagpur</strong></li>
-<li>:books: My major is <strong>Software Engineering</strong></li>
-<li>:earth_asia: I’m living now in <strong>Kharagpur, West Bengal, India</strong></li>
-<li>:sweat_smile: I’m a intermediate in coding :penguin:</li>
-<li>:monocle_face: I’m interested in coding, sleeping, and watching film</li>
-<li>:sunglasses: My quote is <strong><em>“It’s never too late - never too late to start over, never too late to be happy”</em></strong></li>
-<li>:ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep</li>
-</ul>
+<li>My full name is <strong> Abdul Aziz Anaoval </strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"></li>
+<li> I’m a graduate from <strong>Universitas Pelita Bangsa</strong></li>
+<li> My major is <strong>Informatics Engineering</strong></li>
+<li> I’m living now in <strong>Jakarta, Indonesia</strong></li>
+<li> I’m a Junior in <strong>Web Penetration Testing</strong></li>
+<li> I’m interested in ethical hacking, research, sleeping, and watching film animation</li>
+<li> My quote is <strong><em>“It’s never too late - never too late to start over, never too late to be happy”</em></strong></li>
+<li> Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</li>
+
 <h2 id="-some-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools</h2>
 <br>
 <h2 id="-for-more-information-please-check-out-or-connect-me-via"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via</h2>
@@ -40,3 +40,47 @@
 <hr>
 <p>Credits: <a href="https://github.com/noval1802">Mass Vaal</a></p>
 <p>Last Edited on: 06/02/2025</p>
+
+
+<li> Fun fact: have problem 
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="M19 12l-7 -7M19 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
+      </path>
+      <path d="M13 12l-7 -7M13 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
+      </path>
+    </g>
+  </svg> sleep, happy  
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="M19 12l-7 -7M19 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
+      </path>
+      <path d="M13 12l-7 -7M13 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
+      </path>
+    </g>
+  </svg> sleep, sad  
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="M19 12l-7 -7M19 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
+      </path>
+      <path d="M13 12l-7 -7M13 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
+      </path>
+    </g>
+  </svg> sleep ~~ everything  
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="M19 12l-7 -7M19 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
+      </path>
+      <path d="M13 12l-7 -7M13 12l-7 7">
+        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
+      </path>
+    </g>
+  </svg> sleep
+</li>
