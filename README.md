@@ -10,7 +10,7 @@
 
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
 <ul>
-<li>My full name is <strong> Abdul Aziz Anaoval </strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"></li>
+<li>My full name is <strong> Abdul Aziz Anaoval </strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300" align="right"></li>
 <li> I’m a graduate from <strong>Universitas Pelita Bangsa</strong></li>
 <li> My major is <strong>Informatics Engineering</strong></li>
 <li> I’m living now in <strong>Jakarta, Indonesia</strong></li>
@@ -42,45 +42,3 @@
 <p>Last Edited on: 06/02/2025</p>
 
 
-<li> Fun fact: have problem 
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
-    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-      <path d="M19 12l-7 -7M19 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
-      </path>
-      <path d="M13 12l-7 -7M13 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
-      </path>
-    </g>
-  </svg> sleep, happy  
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
-    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-      <path d="M19 12l-7 -7M19 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
-      </path>
-      <path d="M13 12l-7 -7M13 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
-      </path>
-    </g>
-  </svg> sleep, sad  
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
-    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-      <path d="M19 12l-7 -7M19 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
-      </path>
-      <path d="M13 12l-7 -7M13 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
-      </path>
-    </g>
-  </svg> sleep ~~ everything  
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
-    <g fill="none" stroke="#7a7878" stroke-dasharray="12" stroke-dashoffset="12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-      <path d="M19 12l-7 -7M19 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.3s" values="12;0" />
-      </path>
-      <path d="M13 12l-7 -7M13 12l-7 7">
-        <animate fill="freeze" attributeName="stroke-dashoffset" begin="0.3s" dur="0.3s" values="12;0" />
-      </path>
-    </g>
-  </svg> sleep
-</li>
