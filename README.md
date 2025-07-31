@@ -10,7 +10,7 @@
 
 <h2 id="-about-me"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me</h2>
 <ul>
-<li>My full name is <strong> Abdul Aziz Anaoval </strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300" align="right"></li>
+<li>My full name is <strong> Abdul Aziz Anaoval </strong> 
 <li> I’m a graduate from <strong>Universitas Pelita Bangsa</strong></li>
 <li> My major is <strong>Informatics Engineering</strong></li>
 <li> I’m living now in <strong>Jakarta, Indonesia</strong></li>
